@@ -8,8 +8,8 @@ I enjoy building projects and I look forward to collaborating with other develop
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ##Skills & Experience 
- ⚛ REACT
- JavaScript
+ * ⚛ REACT
+ * 🧸🤎🍫 JavaScript
  Sass
 
 - 🔭 I’m currently working on https://my-cinema-galleria.netlify.app/ 
