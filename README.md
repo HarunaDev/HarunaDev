@@ -9,6 +9,7 @@ I enjoy building projects and I look forward to collaborating with other develop
 
 ##Skills & Experience 
 # ⚛ REACT
+# 🟨
 
 - 🔭 I’m currently working on https://my-cinema-galleria.netlify.app/ 
 - 🌱 I’m currently learning React.js & Redux 
