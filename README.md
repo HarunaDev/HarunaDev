@@ -9,8 +9,10 @@ I enjoy building projects and I look forward to collaborating with other develop
 
 ##Skills & Experience 
  * ⚛ REACT
- * 🇯🇸 JavaScript
- Sass
+ * 💻 JavaScript, SASS, CSS, HTML
+ * 📜 Git & Github
+ * 🔶 Node.js & MongoDB
+ * ☁ Netlify & Heroku
 
 - 🔭 I’m currently working on https://my-cinema-galleria.netlify.app/ 
 - 🌱 I’m currently learning React.js & Redux 
