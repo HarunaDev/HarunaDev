@@ -9,7 +9,7 @@ I enjoy building projects and I look forward to collaborating with other develop
 
 ##Skills & Experience 
  * ⚛ REACT
- * 🧸🤎🍫 JavaScript
+ * 🇯🇸 JavaScript
  Sass
 
 - 🔭 I’m currently working on https://my-cinema-galleria.netlify.app/ 
