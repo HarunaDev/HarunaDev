@@ -8,7 +8,7 @@ I am a blockchain and web3 enthusiast, I am currently learning new ways to solve
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills & Experience 
- * ⚛ REACT
+ * ⚛ REACT & Redux
  * 💻 JavaScript, SASS, CSS, HTML
  * 📜 Git & Github
  * 🔶 Node.js & MongoDB
