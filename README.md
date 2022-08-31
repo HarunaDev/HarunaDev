@@ -3,7 +3,7 @@
 ### Hello World 👋, my name is Alvin
 #### I am a Software Developer 💻 
 
-I am a blockchain and web3 enthusiast, I am currently learning new ways to solve problems, and create applications that matter with the JavaScript language. I enjoy building projects and I look forward to collaborating with other developers on this platform. 
+I am a blockchain and web3 enthusiast, I am currently learning new ways to solve problems, and create value with the JavaScript language. I enjoy building projects and I look forward to collaborating with other developers on this platform. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
