@@ -9,7 +9,7 @@ I am a blockchain and web3 enthusiast, I am currently learning new ways to solve
 
 ## Skills & Experience 
  * ⚛ REACT & Redux
- * 💻 JavaScript, D3.js, SASS, CSS, HTML
+ * 💻 Python, JavaScript, D3.js, SASS, CSS, HTML
  * 📜 Git & Github
  * 🔶 Node.js, MongoDB, PostgreSql
  * ☁ Netlify & Heroku
