@@ -11,7 +11,7 @@ I am a blockchain and web3 enthusiast, I am currently learning new ways to solve
  * ⚛ REACT & Redux, Django
  * 💻 Python, JavaScript, D3.js, SASS, CSS, HTML
  * 📜 Git & Github
- * 🔶 Node.js, MongoDB, PostgreSql
+ * 🔶 Node.js, MongoDB, PostgreSql, SQL
  * ☁ Netlify & Heroku
 
 ## More about me
