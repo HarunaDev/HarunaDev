@@ -1,7 +1,7 @@
 ![I am a Software Developer](https://pbs.twimg.com/profile_banners/1464962742578827285/1650715732/600x200)
 
 ### Hello World 👋, my name is Alvin
-#### I am a Software Developer 💻 
+#### I am a Software Developer & Technica Writer💻 
 
 I am a blockchain and web3 enthusiast, I am currently learning new ways to solve problems, and create value with the JavaScript language. I enjoy building projects that matter and I look forward to collaborating with other developers on this platform. 
 
