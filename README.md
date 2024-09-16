@@ -10,13 +10,13 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
 
 ## Skills & Experience 
  * ⚛ REACT & Redux, Next.js, Django, Flask, Linux, Shell Scripting
- * 💻 Python, JavaScript, D3.js, SASS, CSS, HTML
- * 📜 Git & Github
- * 🔶 Node.js, MongoDB, PostgreSql, SQL
- * ☁ Netlify & Heroku
+ * 💻 Python, JavaScript, Tailwind CSS, D3.js, SASS, CSS, HTML
+ * 📜 Git, Github and Git actions
+ * 🔶 Node.js, REST framework, MongoDB, PostgreSql, SQL
+ * ☁ Netlify, Vercel, PythonAnywhere
 
 ## More about me
-- 🔭 I’m currently working on https://my-cinema-galleria.netlify.app/ 
+- 🔭 I’m currently working on [Choji Food App](https://github.com/HarunaDev/chop-chop) 
 - 🌱 I’m currently learning React.js & Redux 
 - 🤔 I’m looking for help with Blockchain & Web3  
 - 💬 Ask me about Anything 
