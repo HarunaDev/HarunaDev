@@ -17,14 +17,14 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
 
 ## More about me
 - 🔭 I’m currently working on [Choji Food App](https://github.com/HarunaDev/chop-chop) 
-- 🌱 I’m currently learning React.js & Redux 
+- 🌱 I’m currently learning React Native 
 - 🤔 I’m looking for help with Blockchain & Web3  
 - 💬 Ask me about Anything 
 - 📫 How to reach me: harunaalvin@yahoo.com 
 - ⚡ Fun fact: I am a self-taught Software developer 🌱 #freeCodeCamp 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HarunaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@HarunaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alvin-haruna//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Ryuuk69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://harunaalvin.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HarunaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@HarunaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alvin-haruna//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Ryuuk69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alvinharuna.com.ng)  
 
 
 
