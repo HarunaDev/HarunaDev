@@ -1,14 +1,15 @@
 ![I am a Software Developer](https://pbs.twimg.com/profile_banners/1464962742578827285/1650715732/600x200)
 
-### Hello World 👋, my name is Alvin
-#### I am a Software Developer & Technical Writer💻 
+## Hello World 👋, my name is Alvin
 
-I am a blockchain and web3 enthusiast, I am currently learning new ways to solve problems, and create value with JavaScript and Python. I enjoy building projects that matter and I look forward to collaborating with other developers on this platform. 
+#### I am a Software Developer & Frontend Engineer💻 
+
+I am a Software Developer and Frontend Engineer skilled in Python and Javascript. I build dynamic web applications & RESTful APIs using technologies such as Django, React, Tailwind CSS and Rest Framework to increase client reach while improving user experience. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills & Experience 
- * ⚛ REACT & Redux, Django, Flask, Linux, Shell Scripting
+ * ⚛ REACT & Redux, Next.js, Django, Flask, Linux, Shell Scripting
  * 💻 Python, JavaScript, D3.js, SASS, CSS, HTML
  * 📜 Git & Github
  * 🔶 Node.js, MongoDB, PostgreSql, SQL
