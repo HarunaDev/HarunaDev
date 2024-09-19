@@ -20,7 +20,7 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
 - 🌱 I’m currently learning React Native 
 - 🤔 I’m looking for help with Blockchain & Web3  
 - 💬 Ask me about Anything 
-- 📫 How to reach me: harunaalvin@yahoo.com 
+- 📫 How to reach me: [portfolio](https://harunadev.netlify.app) harunaalvin@yahoo.com 
 - ⚡ Fun fact: I am a self-taught Software developer 🌱 #freeCodeCamp 
 
 
