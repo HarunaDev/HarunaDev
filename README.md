@@ -13,7 +13,7 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
  * 💻 Python, JavaScript, TypeScript, Tailwind CSS, D3.js, SASS, CSS, HTML
  * 📜 Git, Github and Git actions
  * 🔶 Node.js, REST framework, MongoDB, PostgreSql, SQL
- * ☁ Netlify, Vercel, PythonAnywhere
+ * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com
 
 ## More about me
 - 🔭 I’m currently working on [Choji Food App](https://github.com/HarunaDev/chop-chop) 
