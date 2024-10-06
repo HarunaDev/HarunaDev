@@ -9,7 +9,7 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills & Experience 
- * ⚛ REACT & Redux, Next.js, Django, Flask, Linux, Shell Scripting
+ * ⚛ REACT & Redux, Next.js, Django, Flask, Linux, Bash Scripting
  * 💻 Python, JavaScript, TypeScript, Tailwind CSS, D3.js, SASS, CSS, HTML
  * 📜 Git, Github and Git actions, Technical Writing
  * 🔶 Node.js, REST framework, MongoDB, PostgreSql, SQL
