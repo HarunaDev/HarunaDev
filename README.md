@@ -11,7 +11,7 @@ I am a Software Developer and Frontend Engineer skilled in Python and Javascript
 ## Skills & Experience 
  * ⚛ REACT & Redux, Next.js, Django, Flask, Linux, Bash Scripting
  * 💻 Python, JavaScript, TypeScript, Tailwind CSS, D3.js, SASS, CSS, HTML
- * 📜 Git, Github and Git actions, Technical Writing
+ * 📜 Git, Github and Git actions, Docker, Technical Writing
  * 🔶 Node.js, REST framework, MongoDB, PostgreSql, SQL
  * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com
 
