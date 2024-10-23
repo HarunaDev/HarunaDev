@@ -4,7 +4,7 @@
 
 #### I am a Software Developer & Frontend Engineer💻 
 
-I am a Software Developer and Frontend Engineer skilled in Python and Javascript. I build dynamic web applications & RESTful APIs using technologies such as Django, React, Tailwind CSS and Rest Framework to increase client reach while improving user experience. 
+I build dynamic web applications & RESTful APIs using technologies such as Django, React, Tailwind CSS and Rest Framework to increase client reach while improving user experience. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
