@@ -17,7 +17,7 @@ I build dynamic web applications & RESTful APIs using technologies such as Djang
 
 ## More about me
 - 🔭 I’m currently working on [Real Estate Marketplace](https://github.com/HarunaDev/realtor-marketplace)
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Rust & Anchor 
 - 🤔 I’m looking for help with Blockchain & Web3  
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [portfolio](https://harunadev.netlify.app) harunaalvin@yahoo.com 
