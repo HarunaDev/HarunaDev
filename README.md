@@ -9,8 +9,8 @@ I build dynamic web applications & RESTful APIs using technologies such as Djang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills & Experience 
- * ⚛ REACT & Redux tool kit, Next.js, Django, Flask, Linux, Bash Scripting, PWA development, web3.js, thirdweb
- * 💻 Python, JavaScript, TypeScript, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, gsap, three.js
+ * ⚛ REACT & Redux tool kit, Next.js, Django, Flask, Linux, Bash Scripting, PWA development, Cross Platform Desktop Apps, web3.js, thirdweb
+ * 💻 Python, JavaScript, TypeScript, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, gsap, three.js, Electron.js
  * 📜 Git, Github and Git actions, Docker, Technical Writing
  * 🔶 Node.js, REST framework, MongoDB, PostgreSQL, SQL, Neon, Drizzle, Solidity
  * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com
