@@ -2,7 +2,7 @@
 
 ## Hello World 👋, my name is Alvin
 
-#### I am a Software Developer, Frontend Engineer💻 and Technical writer 
+#### I am a Software Developer, Frontend Engineer and Technical writer 💻
 
 I build dynamic web applications & RESTful APIs using technologies such as Django, Next.js, React, Tailwind CSS and Rest Framework to increase client reach while improving user experience. 
 
