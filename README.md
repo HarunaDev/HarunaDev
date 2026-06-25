@@ -10,10 +10,10 @@ I build dynamic web applications & RESTful APIs using technologies such as Djang
 
 ## Skills & Experience 
  * ⚛ REACT & Redux tool kit, Next.js, Django, Flask, Linux, Bash Scripting, PWA development, Cross-Platform Desktop Apps, web3.js, thirdweb
- * 💻 Python, JavaScript, TypeScript, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, gsap, three.js, Electron.js
+ * 💻 Python, JavaScript, TypeScript, C#, ASP.NET Core, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, gsap, three.js, Electron.js
  * 📜 Git, GitHub, GitHub actions, Docker, Technical Writing.
  * 🔶 Node.js, REST framework, MongoDB, PostgreSQL, SQL, Neon, Drizzle, Solana Network
- * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com
+ * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com, MonsterASP
  * ☁ Claude code, Codex
 
 ## More about me
