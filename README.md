@@ -14,7 +14,7 @@ I build dynamic web applications & RESTful APIs using technologies such as Djang
  * 📜 Git, GitHub, GitHub actions, Docker, Technical Writing.
  * 🔶 Node.js, REST framework, MongoDB, PostgreSQL, SQL, Neon, Drizzle, Solana Network
  * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com, MonsterASP
- * ☁ Claude code, Codex
+ * 🤖 Claude code, Codex, Copilot
 
 ## More about me
 - 🔭 I’m currently working on [Cross-platform Desktop game application](https://github.com/HarunaDev/gamefi-app)
