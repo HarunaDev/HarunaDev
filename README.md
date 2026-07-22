@@ -4,17 +4,17 @@
 
 #### I am a Software Developer, Frontend Engineer, Blockchain developer, and Technical writer 💻
 
-I build dynamic web applications & RESTful APIs using technologies such as Django, Next.js, React, Tailwind CSS and Rest Framework to increase client reach while improving user experience. 
+I build dynamic web applications & RESTful APIs using technologies such as ASP.NET Core, Django, Next.js, React, and React Native to increase client visibility online while improving user experience. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills & Experience 
- * ⚛ REACT & Redux tool kit, Next.js, Django, Flask, Linux, Bash Scripting, PWA development, Cross-Platform Desktop Apps, web3.js, thirdweb
- * 💻 Python, JavaScript, TypeScript, C#, ASP.NET Core, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, gsap, three.js, Electron.js
- * 📜 Git, GitHub, GitHub actions, Docker, Technical Writing.
+ * ⚛ REACT & Redux toolkit, Next.js, Django, Flask, Linux, Bash Scripting, PWA development, Cross-Platform Desktop Apps, web3.js, thirdweb
+ * 💻 Python, JavaScript, TypeScript, C#, ASP.NET Core, Rust, Tailwind CSS, D3.js, SASS, CSS, HTML, GSAP, three.js, Electron.js
+ * 📜 Git, GitHub, GitHub Actions, Docker, Technical Writing.
  * 🔶 Node.js, REST framework, MongoDB, PostgreSQL, SQL, Neon, Drizzle, Solana Network
  * ☁ Netlify, Vercel, PythonAnywhere, Fly.io, Render.com, MonsterASP
- * 🤖 Claude code, Codex, Copilot
+ * 🤖 Claude Code, Codex, Copilot
 
 ## More about me
 - 🔭 I’m currently working on [Cross-platform Desktop game application](https://github.com/HarunaDev/gamefi-app)
