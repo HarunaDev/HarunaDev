@@ -21,7 +21,7 @@ I build dynamic web applications & RESTful APIs using technologies such as ASP.N
 - 🌱 I’m currently learning Rust & Anchor 
 - 🤔 I’m looking for help with Blockchain & Web3  
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [portfolio](https://harunadev.netlify.app) harunaalvin@yahoo.com 
+- 📫 How to reach me: [portfolio](https://harunadev.netlify.app) || [email](harunaalvin@yahoo.com) 
 - ⚡ Fun fact: I am a self-taught Software developer 🌱 #freeCodeCamp #HarvardX
 
 
